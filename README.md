@@ -1,4 +1,4 @@
-# totalitycorp-frontend-challenge
+# StarBucks Clone
 StarBucks Clone
 Website hosted on  000webhost
 link- https://mywebstarsite.000webhostapp.com/
